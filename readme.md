@@ -35,7 +35,6 @@ runner = Taisc(streams=streams, max_size_mb=max_size_mb, max_files=max_files)
 runner.run()
 
 ```
-
 # Output
 ```bash
 2021-04-17 07:39:29,639 - 140421557757760 - INFO - recording ('rnaf', 'https://radio.canstream.co.uk:9072/live.mp3') for 9 files
